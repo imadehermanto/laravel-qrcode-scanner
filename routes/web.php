@@ -13,6 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [App\Http\Controllers\QrcodeController::class, 'index']);
+Route::post('/post', [App\Http\Controllers\QrcodeController::class, 'post'])->name('post');
