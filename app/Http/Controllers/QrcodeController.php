@@ -14,6 +14,11 @@ class QrcodeController extends Controller
     public function post(Request $request)
     {
         $data = $request->input('data');
+
+        //proses
+
+
+        //akhir proses
         return response()->json([
             'success' => true,
             'data' => $data
