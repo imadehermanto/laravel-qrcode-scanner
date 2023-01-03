@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>QrCode Scanner Laravel.md</title><style></style></head><body id="preview">
+<!DOCTYPE html><html><head><meta charset="utf-8"><style></style></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="QrCode_Scanner_Laravel_0"></a>QrCode Scanner Laravel</h1>
 <p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://travis-ci.org/joemccann/dillinger"><img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status"></a> <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a></p>
 <p class="has-line-data" data-line-start="5" data-line-end="6">QR Code Scanner adalah aplikasi web yang dibangun menggunakan framework Laravel. Aplikasi ini memungkinkan pengguna untuk memindai kode QR dan menampilkan informasi yang terkandung di dalamnya.</p>
